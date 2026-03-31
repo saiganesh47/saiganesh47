@@ -1,4 +1,8 @@
 ## Hi, I'm Sai Ganesh 👋
+## About Me :
+Data Analyst Fresher with hands-on project experience in EDA, SQL, Machine Learning, python libraries and Dashboarding.
+Built predictive models with 98% accuracy and developed interactive dashboards to generate business insights.
+Actively seeking opportunities to apply data skills in real-world business problems.
 
 
 

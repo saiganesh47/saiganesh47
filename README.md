@@ -36,8 +36,8 @@ End-to-end data analysis project identifying production and yield trends.
 Interactive dashboard providing key business insights and performance tracking.
 
 ### SQL Data Cleaning Project
-Used advanced SQL queries to clean and transform real-world datasets.
----------------------------
+- Used advanced SQL queries to clean and transform real-world datasets.
+----
 ### 🔭 I'm currently working on
 - Open-source data analytics & visualization projects
 - Business intelligence dashboards and automated reporting solutions
@@ -53,10 +53,9 @@ Used advanced SQL queries to clean and transform real-world datasets.
 - End-to-end dashboard design in Power BI / Tableau
 - Data cleaning, EDA, and turning insights into stakeholder recommendations
 - Automating repetitive analysis with Python (Pandas + automation scripts)
----------------------------
+--
 - ### ⚡ Fun fact
-I automated a 40-hour monthly manual report into a 5-minute refreshed dashboard — saving the team over 400 hours annually.
-------------------------
+  - Saved 480 hours/year by automating a 40-hour monthly reporting process into a 5-minute dashboard.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saiganesh47&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>

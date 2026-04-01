@@ -54,13 +54,26 @@ Interactive dashboard providing key business insights and performance tracking.
 - ### ⚡ Fun fact
   - Saved 480 hours/year by automating a 40-hour monthly reporting process into a 5-minute dashboard.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saiganesh47&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saiganesh47&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh47&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h2>📊 GitHub Stats</h2>
 
-## 📊 Github Streaks: 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&border_radius=12" width="420"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight" width="420"/>
+</td>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiganesh47&theme=github-dark&cache_seconds=0" width="420"/>
+</td>
+</tr>
+</table>
 
   [![](https://visitcount.itsvg.in/api?id=saiganesh47&icon=0&color=0)](https://visitcount.itsvg.in)
 

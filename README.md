@@ -9,7 +9,6 @@ Turning raw data into meaningful insights 📊
   <img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=for-the-badge&color=00ff00"/>
   <img src="https://img.shields.io/github/stars/saiganesh47?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00ff00"/>
 </p>
----
 
 ## 🚀 About Me
 🎓 Data Analyst Fresher with hands-on project experience  

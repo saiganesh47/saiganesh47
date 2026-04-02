@@ -4,7 +4,11 @@
 <p align="center">
 Turning raw data into meaningful insights 📊
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=00ff00&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=for-the-badge&color=00ff00"/>
+  <img src="https://img.shields.io/github/stars/saiganesh47?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00ff00"/>
+</p>
 ---
 
 ## 🚀 About Me

@@ -1,34 +1,38 @@
-<h1 align="center">Hey, I'm Sai Ganesh 👋</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Machine Learning</h3>
+<!-- TYPING HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=9000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=70&lines=Hey,+I'm+Sai+Ganesh+👋;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+into+Actionable+Insights+📊" />
+</h1>
 
+<!-- SUBTITLE -->
+<h3 align="center">Aspiring Data Analyst | Open to Opportunities | Building Data-Driven Solutions</h3>
+
+<br>
+
+<!-- BADGES ROW -->
 <p align="center">
-Turning raw data into meaningful insights 📊
+  <img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=for-the-badge&color=2563EB" />
+  <img src="https://img.shields.io/github/stars/saiganesh47?label=Stars&style=for-the-badge&color=2563EB" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=00ff00&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=for-the-badge&color=00ff00"/>
-  <img src="https://img.shields.io/github/stars/saiganesh47?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00ff00"/>
-</p>
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/sai-ganesh-m-773208238">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saiganesh.maganti@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
+
 ## 🚀 About Me
 🎓 Data Analyst Fresher with hands-on project experience  
 📊 Passionate about Data Analytics, Business Intelligence & Machine Learning  
 💡 Love solving real-world business problems using data  
 🌱 Currently learning **Advanced SQL, Power BI & Cloud Data Tools**  
 🎯 Actively seeking **Entry-Level Data Analyst Opportunities**
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/sai-ganesh-m-773208238" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:saiganesh.maganti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 ---
 

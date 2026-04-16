@@ -164,6 +164,9 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 <td>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiganesh47&theme=react-dark&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&v=3" width="420"/>
 </td>
+<td>
+  <img src="https://raw.githubusercontent.com/saiganesh47/saiganesh47/main/metrics.plugin.activity.svg" width="400"/>
+</td>
 </tr>
 </table>
 

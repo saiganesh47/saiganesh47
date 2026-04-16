@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: saiganesh47
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
+
+          filename: metrics.plugin.activity.svg

@@ -167,6 +167,9 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 <td>
   <img src="https://raw.githubusercontent.com/saiganesh47/saiganesh47/main/metrics.plugin.activity.svg" width="450"/>
 </td>
+<td>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiganesh47&theme=github_dark)
+</td>
 </tr>
 </table>
 

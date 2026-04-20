@@ -149,12 +149,12 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</p>
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=saiganesh47&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>

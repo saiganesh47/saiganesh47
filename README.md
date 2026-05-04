@@ -11,7 +11,7 @@
 <!-- BADGES ROW -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=for-the-badge&color=2563EB" />
+  <img src="https://img.shields.io/github/followers/saiganesh47?logo=github&style=for-the-badge&color=2563EB&label=GitHub%20Followers" />
   <img src="https://img.shields.io/github/stars/saiganesh47?label=Stars&style=for-the-badge&color=2563EB" />
 </p>
 

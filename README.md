@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=9000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=70&lines=Hey,+I'm+Sai+Ganesh+👋;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+into+Actionable+Insights+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=9000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Hey,+I'm+Sai+Ganesh+👋;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+into+Actionable+Insights+📊" />
 </h1>
 
 <!-- SUBTITLE -->
@@ -10,9 +10,17 @@
 
 <!-- BADGES ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saiganesh47?logo=github&style=for-the-badge&color=2563EB&label=GitHub%20Followers" />
-  <img src="https://img.shields.io/github/stars/saiganesh47?label=Stars&style=for-the-badge&color=2563EB" />
+
+<img src="https://komarev.com/ghpvc/?username=saiganesh47&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/saiganesh47?label=Followers&style=flat&color=blue" />
+
+<img src="https://img.shields.io/github/stars/saiganesh47?label=Stars&style=flat&color=blue" />
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/saiganesh47&color=blue&style=flat" />
+
+<img src="https://img.shields.io/github/last-commit/saiganesh47/saiganesh47?label=Last%20Updated&style=flat&color=blue" />
+
 </p>
 
 ## 🌐 Connect With Me

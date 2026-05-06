@@ -143,33 +143,30 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&show_rank=true&include_all_commits=true&count_private=true" />
-</p>
+<td align="center">
+<img width="400"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </td>
-<td width="50%">
 
-<img height="170" src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
-
+<td align="center">
+<img width="400"
+src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight&hide_border=true" />
-
+<td>
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
-<td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh47&theme=github_dark" />
-
+<td>
+<img height="170"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh47&theme=tokyonight"/>
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 </h1>
 
 <!-- SUBTITLE -->
-<h3 align="center">Aspiring Data Analyst | Open to Opportunities | Building Data-Driven Solutions</h3>
+<h3 align="center"> Data Analyst | Open to Opportunities | Building Data-Driven Solutions</h3>
 
 <br>
 

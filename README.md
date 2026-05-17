@@ -186,7 +186,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 ## 🤝 Open To Collaborate On
 📊 Data Analytics Projects  
 📈 Business Intelligence Dashboards  
-🤖 Machine Learning Projects  
+🤖 Machine Learning Projects 
 📚 Open-Source Contributions  
 
 ---

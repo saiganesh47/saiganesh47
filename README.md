@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/saiganesh47&color=blue&style=flat" />
 
-<img src="https://img.shields.io/github/last-commit/saiganesh47/saiganesh47?label=Last%20Updated&style=flat&color=blue" />
+
 
 </p>
 

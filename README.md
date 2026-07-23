@@ -1,7 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=4500&pause=1200&color=FACC15&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Sai+Ganesh;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Transforming+Data+into+Business+Insights+📊;Open+to+Data+Analytics+Opportunities+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=34&duration=5500&pause=1200&color=FACC15&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Sai+Ganesh;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Transforming+Data+into+Business+Insights+📊;Open+to+Data+Analytics+Opportunities+🚀" alt="Typing SVG" />
 
 <br><br>
 

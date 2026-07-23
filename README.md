@@ -1,12 +1,26 @@
-<!-- TYPING HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=9000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Hey,+I'm+Sai+Ganesh+👋;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+into+Actionable+Insights+📊" />
-</h1>
+<!-- ================= HERO SECTION ================= -->
+<div align="center">
 
-<!-- SUBTITLE -->
-<h3 align="center"> Data Analyst | Open to Opportunities | Building Data-Driven Solutions</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=4500&pause=1200&color=FACC15&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Sai+Ganesh;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Transforming+Data+into+Business+Insights+📊;Open+to+Data+Analytics+Opportunities+🚀" alt="Typing SVG" />
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<h3>📊 Turning Data into Business Value</h3>
+
+<p>
+Passionate about Data Analytics, Business Intelligence, and Machine Learning.<br>
+I build dashboards, automate reporting, and transform raw data into actionable insights.
+</p>
+
+</div>
+
+---
 
 <!-- BADGES ROW -->
 <p align="center">

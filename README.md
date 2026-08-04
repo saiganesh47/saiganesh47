@@ -95,19 +95,6 @@ I build dashboards, automate reporting, and transform raw data into actionable i
 <p>
 <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
-
-### 📈 Data Analyst Skills
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Storytelling  
-- Dashboard Development  
-- SQL Query Optimization  
-- Business Intelligence & KPI Tracking  
-- Statistical Analysis  
-- Predictive Modeling  
-- ETL Basics  
-- Data Reporting & Automation  
-
 ---
 
 ## 📌 Featured Projects

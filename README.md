@@ -23,7 +23,6 @@ I build dashboards, automate reporting, and transform raw data into actionable i
 
 </div>
 
----
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -50,7 +49,7 @@ I build dashboards, automate reporting, and transform raw data into actionable i
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+
 
 ## 🚀 About Me
 🎓 Data Analyst Fresher with hands-on project experience  
@@ -59,7 +58,6 @@ I build dashboards, automate reporting, and transform raw data into actionable i
 🌱 Currently learning **Advanced SQL, Power BI & Cloud Data Tools**  
 🎯 Actively seeking **Entry-Level Data Analyst Opportunities**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +93,7 @@ I build dashboards, automate reporting, and transform raw data into actionable i
 <p>
 <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
----
+
 
 ## 📌 Featured Projects
 
@@ -108,7 +106,6 @@ Machine Learning model predicting the best crop based on soil & environmental co
 
 **Tools:** Python, Pandas, Scikit-learn  
 
----
 
 ### 🌾 Oil Seeds Production Analysis
 End-to-end data analysis identifying yield & production trends.
@@ -119,7 +116,6 @@ End-to-end data analysis identifying yield & production trends.
 
 **Tools:** Python, EDA, Machine Learning  
 
----
 
 ### 📊 Sales Dashboard – Power BI
 Interactive dashboard tracking KPIs & business performance.
@@ -130,7 +126,6 @@ Interactive dashboard tracking KPIs & business performance.
 
 **Tools:** Power BI, Data Visualization  
 
----
 
 ### 🧹 SQL Data Cleaning Project
 Cleaned and transformed messy real-world datasets using advanced SQL.
@@ -141,7 +136,6 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 
 **Tools:** SQL, Data Cleaning
 
----
 
 ## 💡 What I Do
 ✔ Data Cleaning & Transformation  
@@ -153,7 +147,6 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 
 ⚡ **Achievement:** Automated a 40-hour monthly report into a **5-minute dashboard** (Saved 480 hrs/year)
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -193,12 +186,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 🤖 Machine Learning Projects 
 📚 Open-Source Contributions  
 
----
 
 ## ⭐ Quote I Believe In
 <p align="center">" Without data, you're just another person with an opinion."</p>
 
----
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
 
@@ -213,5 +204,3 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 ## "Data tells the story. Analytics drives the decisions."
 
 </div>
-
----

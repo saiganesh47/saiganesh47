@@ -151,17 +151,19 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center">
-<tr>
-<td align="center">
-<img width="400"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</td>
-
-<td align="center">
-<img width="400"
-src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img width="400" src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
 
 <tr>
 <td>

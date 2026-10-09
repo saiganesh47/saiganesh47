@@ -153,34 +153,25 @@ Cleaned and transformed messy real-world datasets using advanced SQL.
 <table align="center">
   <tr>
     <td align="center">
-      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiganesh47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiganesh47&theme=tokyonight"/>
     </td>
     <td align="center">
-      <img width="400" src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
+      <img height="170" src="https://streak-stats.demolab.com?user=saiganesh47&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight&hide_border=true"/>
+    <td align="center">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiganesh47&theme=tokyonight"/>
+    </td>
+    <td align="center">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh47&theme=tokyonight"/>
     </td>
   </tr>
-
-<tr>
-<td>
-<img height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiganesh47&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-
-<td>
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh47&theme=tokyonight"/>
-</td>
-</tr>
 </table>
+
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiganesh47&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
 
 ## 🤝 Open To Collaborate On
 📊 Data Analytics Projects  
